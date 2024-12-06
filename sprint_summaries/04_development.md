@@ -1,6 +1,6 @@
-# Sprint 4 Summary
+# Sprint 04 Summary - Team Lead Tyler C.
 
-This sprint involved a lot of refactoring, cleaning up UI, and streamlining the application. 
+This sprint involved a lot of refactoring, cleaning up UI, and streamlining the application.
 Some of these tasks included refactoring the create drink and edit drink pages as well as cleaning up the drink creation, cart and chekcout views.
 These features were implemented this sprint, stay signed in, AI recommendations on the create drinks page, connecting the generate drinks page to the edit drink page, and refactoring the generate drinks page to group drinks by base soda.
 On the backend, the Inventory, get missing ingredients, and place order endpoints were created, though the place order endpoint was not completed. Backend also attempted to dockerize the postgreSQL database, but this became too much work to continue.
